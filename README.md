@@ -14,4 +14,4 @@ nomadcoders <[ReactJS로 영화 웹 서비스 만들기](https://nomadcoders.co/
 ---
 
 ## PROPS
-![img](https://user-images.githubusercontent.com/97823296/230533421-fbfc292a-aac2-4f0a-ad28-971f9c3619c0.png)  
+![img](https://user-images.githubusercontent.com/97823296/230554285-6a369ae1-8253-4653-bbfa-0b7414df35a7.png)  
