@@ -20,3 +20,13 @@ nomadcoders <[ReactJS로 영화 웹 서비스 만들기](https://nomadcoders.co/
 
 ## EFFECTS
 <img src=https://user-images.githubusercontent.com/97823296/236842178-cebd7aa1-675c-4046-acba-fed94dfdd4a7.png width="800">
+
+---
+
+## TodoList
+<img src=https://user-images.githubusercontent.com/97823296/236988113-8009896c-d4ac-4d5b-8762-449efc47df28.png width="400">
+
+---
+
+## CoinTracker
+<img src=https://user-images.githubusercontent.com/97823296/236988096-a925af39-5208-4c1d-b924-ce199d16a2fb.png width="400">
